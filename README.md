@@ -29,7 +29,7 @@ DB_URL='mongodb://john:doe@localhost:27017/databaseName'
 * Ensure that you are in the project directory.
 * Run the bash script using `bash myscript.sh`.
 * When this is done.
-* Go to your browser and type `192.168.99.100:3000/` "voila!" you are up and running.
+* Go to your browser and type `192.168.99.100:3000/users` "voila!" you are up and running.
 ```
 
 ### Testing
