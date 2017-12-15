@@ -4,6 +4,7 @@
 
 This repository contains a simple demo API built with NodeJS.
 The API is used to manage users in a MongoDB database.
+This repository also contains a Dockerfile to build a docker image, and create a container out of the docker image.
 
 ### Development
 This application was developed using [ExpressJS](http://expressjs.com/). MongoDB was used for persisting data with [Mongoose](https://mongoosejs.com/) as [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping).
@@ -124,4 +125,4 @@ password: janedoe
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
 ### Contributor
-***Chisimdi Damian Ezeanieto** - Software Develper at APMIS
+***Chisimdi Damian Ezeanieto** - Software Developer at APMIS
