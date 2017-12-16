@@ -129,4 +129,4 @@ password: janedoe
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
 ### Contributor
-***Chisimdi Damian Ezeanieto** - Software Developer at APMIS
+**Chisimdi Damian Ezeanieto** - Software Developer at APMIS
