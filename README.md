@@ -30,6 +30,10 @@ DB_URL='mongodb://john:doe@localhost:27017/databaseName'
 * Run the bash script using `bash myscript.sh`.
 * When this is done.
 * Go to your browser and type `192.168.99.100:3000/users` "voila!" you are up and running.
+* Create a `.env` file in your root directory as described below. Variables such as DB_URL (which must be a mongoDB URL) and PORT are defined in the .env file and it is essential you create this file before running the application.
+```
+PORT=3000
+DB_URL='mongodb://192.168.99.100:27017/databaseName'
 ```
 
 ### Testing
